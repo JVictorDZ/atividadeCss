@@ -20,12 +20,12 @@
 
 .divD {
     width: 50%;
-    height: 50%vh;
+    height: 50vh;
     background-color: rgb(74, 152, 255);
 }
 
 .divE {
-    width: 75%vw;
+    width: 75vw;
     height: 50%;
     background-color: rgb(255, 60, 60);
 }
